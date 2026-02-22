@@ -24,11 +24,14 @@
 
 ### 2. Cấu hình kết nối
 
-Mở file `TechTest/DbHelper.vb` và chỉnh sửa connection string nếu cần:
+Mở file `appsettings.json` và chỉnh sửa connection string nếu cần:
 
-```vb
-Private Const CONNECTION_STRING As String =
-    "Host=localhost;Port=5432;Database=theater_db;Username=postgres;Password=postgres"
+```json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Port=5432;Database=theater_db;Username=postgres;Password=postgres"
+  }
+}
 ```
 
 ### 3. Chạy ứng dụng
