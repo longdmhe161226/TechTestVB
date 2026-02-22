@@ -60,7 +60,7 @@ Hoặc mở solution trong Visual Studio và nhấn F5.
 - Trạng thái ghế bằng màu: 🟥 Đã gán (booking khác) | 🟦 Đang chọn | ⬜ Trống
 - Kiểm tra giới hạn số ghế theo vé đã đặt
 - Kiểm tra trùng ghế giữa các booking
-<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/b81d257e-443e-4963-86c1-78f7a322834c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/efc58422-20aa-447d-b7de-d13908d60a1f" />
 
 ## Bảng giá
 
